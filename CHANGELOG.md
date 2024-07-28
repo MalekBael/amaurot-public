@@ -7,12 +7,16 @@ This changelog starts at version 0.2.0.
 
 ## 0.12.2 - 2024-07-28
 
+### Updated
+
   - Updated Elixir version to 1.14 and Erlang to 25.3.
 
 ## 0.12.1 - 2022-07-22
 
-- Added a new role: "Pictomancer".
-- Added a new role: "Viper".
+### Added
+
+- New role: "Pictomancer".
+- New role: "Viper".
 
 ## 0.12.0 - 2022-09-03
 
